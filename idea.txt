@@ -1,0 +1,123 @@
+Name FitCheck
+group 4 :
+Layan C., Mahmoed M. Michal A., Muhamad M.,Khader K. and Raya S.
+The team
+Answer the question, “Why are we the ones to solve the problem we identified?”
+Layan
+Cordi
+Lorem ipsum
+dolor sit amet,
+consectetur
+adipiscing elit,
+sed do eiusmod
+tempor
+Mahmoud
+masri
+Muhammad
+Mhameed
+Lorem ipsum
+dolor sit amet,
+consectetur
+adipiscing elit,
+sed do eiusmod
+tempor
+“Because we are
+the Champions”
+Michal
+Abraham
+Lorem ipsum
+dolor sit amet,
+consectetur
+adipiscing elit,
+sed do eiusmod
+tempor
+Abby
+Author
+Lorem ipsum
+dolor sit amet,
+consectetur
+adipiscing elit,
+sed do eiusmod
+tempor
+Berry
+Books
+Lorem ipsum
+dolor sit amet,
+consectetur
+adipiscing elit,
+sed do eiusmod
+tempor
+Main Problem:
+Finding the right items to
+buy while shopping online
+Addressing the problem
+● Online shoppers face too many options and
+inconsistent information
+● Reviews are unreliable, biased, or overwhelming
+● Filters focus on price and brand — not real needs or
+context
+● Result: frustration, wrong purchases, returns, and loss
+of trust
+20XX 20XX 20XX 20XX
+Why now?
+● Online shopping has grown rapidly since COVID-19,
+especially in fashion
+● Consumers now buy clothes and shoes without seeing or
+trying them first
+● This has led to a return crisis — up to 40% of online
+fashion purchases are returned
+● Returns create high costs, wasted time, complex
+logistics, and major environmental impact
+what is the gap with the
+existing solutions?
+● While they help, most of them don’t show true
+3D fit:
+● They are 2D overlays, not real simulations.
+● They don’t adapt to individual body shapes.
+● They don’t show movement, drape, or real
+material behavior.
+● Fit recommendations can still be inaccurate.
+● That’s exactly the gap a proper 3D solution
+would fill.
+The solution
+Show how you solve the
+problem you identified.
+What will be different when
+the problem is solved (by
+you)?
+The technology:
+How it works
+Step 1: User Flow
+● User uploads 2-3 photos and basic details (height, weight).
+● System analyzes images to estimate body shape and measurements.
+● A realistic 3D digital twin of the user is generated.
+● Clothing is mapped onto the digital twin for virtual try-on.
+● AI recommends the best size using the brand’s size guide.
+● Delivered as a plug-in/widget for e-commerce fashion websites.
+How it works
+Step 1: User Flow
+Step 2: Technologies Used
+Front-end:
+● Web app interface for photo upload, preview, and virtual try-on.
+How it works
+Step 3: Back-end:
+Step 1: User Flow
+Step 2: Technologies Used
+● Image analysis (body shape
+estimation).
+● 3D avatar/digital twin
+generation and clothing
+simulation.
+● AI-based size
+recommendation engine.
+Mission statement:
+Your company’s
+mission goes here
+Revenue model
+Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor
+incididunt
+Consumer
+Venue
+Artist
