@@ -13,7 +13,7 @@ export const products = [
     name: "Slim Fit Denim Jeans",
     price: 59.99,
     category: "bottoms",
-    image: "https://images.unsplash.com/photo-1542272617-08f086303294?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+    image: "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
     colors: ["#1E3A8A", "#374151", "#000000"],
     style: "pants_jeans"
   },
